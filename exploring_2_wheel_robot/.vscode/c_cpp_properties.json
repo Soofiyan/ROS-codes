@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/soofiyan/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/soofiyan/catkin_ws/src/assignment/include/**",
+        "/home/soofiyan/catkin_ws/src/automa/include/**",
+        "/home/soofiyan/catkin_ws/src/exploring_2_wheel_robot/include/**",
+        "/home/soofiyan/catkin_ws/src/pub_sub/include/**",
+        "/home/soofiyan/catkin_ws/src/robot_cleaner/include/**",
+        "/home/soofiyan/catkin_ws/src/ros_basics_tut/include/**",
+        "/home/soofiyan/catkin_ws/src/ros_basics_tutorials/include/**",
+        "/home/soofiyan/catkin_ws/src/ros_custom_msg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

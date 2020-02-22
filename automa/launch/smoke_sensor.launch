@@ -1,0 +1,10 @@
+<launch>
+    
+    <node pkg="automa" type="sensor_pub.py" name="sensor_pub_node" output="screen">
+    </node>
+    <node pkg="automa" type="talker.py" name="talker" output="screen">
+    </node>
+    <node pkg="automa" type="sensor_receive" name="sensor_receive_node" output="screen">
+    </node>
+
+</launch>
